@@ -1,5 +1,7 @@
 This container runs ntp server on Ubuntu 18.04
 
+Check [Docker Hub] (https://hub.docker.com/r/wtjtw/ntp-server)
+
 # Running NTP server
 
 ## Pull image from docker hub
